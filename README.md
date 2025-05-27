@@ -1,6 +1,3 @@
-Here's your professionally formatted content in **Markdown**:
-
----
 
 # **Introduction to Artificial Intelligence (AI)**
 
@@ -148,4 +145,3 @@ As AI grows, ethical concerns and social responsibilities become increasingly im
 
 ---
 
-Let me know if you'd like this saved as a PDF, exported as a file, or turned into a slide deck!
